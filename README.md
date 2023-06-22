@@ -1,5 +1,5 @@
 # Python-Browser
-A browser programmed only with python.
+A easy phyton browser
 # How to run
 ```
 py browser.py
